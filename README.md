@@ -28,11 +28,11 @@ A entrega é composta pelos seguintes arquivos e diretórios:
 - `sprint-backlog.pdf`  
   Backlog da sprint registrado no Jira, com detalhamento das estorias planejadas para a sprint 0 e 1.
 
-- `wireframes/`  
+- `wireframe/`  
   Diretório contendo imagens dos protótipos de interface do app CINENOW.  
   **Observação:** O wireframe é de baixa fidelidade, foi desenvolvido no Figma e corresponde à Sprint 1.
 
-- `video.mp4` 
+- `video_Cinenow.mp4` 
   Vídeo de apresentação do projeto 
 
 - `video.txt`  
