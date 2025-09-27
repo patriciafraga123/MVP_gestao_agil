@@ -32,9 +32,6 @@ A entrega é composta pelos seguintes arquivos e diretórios:
   Diretório contendo imagens dos protótipos de interface do app CINENOW.  
   **Observação:** O wireframe é de baixa fidelidade, foi desenvolvido no Figma e corresponde à Sprint 1.
 
-- `video_Cinenow.mp4` 
-  Vídeo de apresentação do projeto 
-
 - `video.txt`  
   Link para o vídeo do projeto hospedado no YouTube.
 
